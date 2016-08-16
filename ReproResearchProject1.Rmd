@@ -3,6 +3,7 @@ title: "Assignment-1"
 author: "Cory Saunders"
 date: "August 15, 2016"
 output: html_document
+#output: md_document
 ---
 
 ### Coursera Data Science Specialization
